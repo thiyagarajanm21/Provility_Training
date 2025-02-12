@@ -1,6 +1,4 @@
 #Control Statements
-
-
 print("If Statement")
 a="hello"
 b="hello"
