@@ -8,3 +8,13 @@ else:
 finally:
     print("Execution Completed")
 
+# Exception Handling with Dictionary
+try:
+    d = {"car":"lexus"}
+    print(d["bus"])
+except KeyError:
+    print("Key not found...")
+else:
+    print("Key found")
+finally:
+    print("Execution Completed")
