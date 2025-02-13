@@ -63,6 +63,7 @@ print(r[1])
 print("Slicing from 1 to 2")
 print(r[1:2])
 
+
 print("Unpacking")
 x,y,z=(1,2,3)
 print(x)
